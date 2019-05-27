@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stark/static/css/main.ae1d2ef9.chunk.css",
+    "main.js": "/stark/static/js/main.b144737f.chunk.js",
+    "main.js.map": "/stark/static/js/main.b144737f.chunk.js.map",
+    "runtime~main.js": "/stark/static/js/runtime~main.1ab278a5.js",
+    "runtime~main.js.map": "/stark/static/js/runtime~main.1ab278a5.js.map",
+    "static/js/2.b41502e9.chunk.js": "/stark/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/stark/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/stark/index.html",
+    "precache-manifest.85b1890802e917edb88b6652543d43ea.js": "/stark/precache-manifest.85b1890802e917edb88b6652543d43ea.js",
+    "service-worker.js": "/stark/service-worker.js",
+    "static/css/main.ae1d2ef9.chunk.css.map": "/stark/static/css/main.ae1d2ef9.chunk.css.map",
+    "static/media/logo.svg": "/stark/static/media/logo.5d5d9eef.svg"
+  }
+}
